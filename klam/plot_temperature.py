@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 targetTemperatures = [1.0, 5.0]
 
-numberOfParticles = 250
+numberOfParticles = 100
 packingFraction = 0.3
 
 sigma = 1.0
